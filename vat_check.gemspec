@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'vat_check'
-  s.version       = '0.0.5'
+  s.version       = '0.0.6'
   s.date          = '2016-01-11'
   s.licenses      = ['MIT']
   s.summary       = 'Validate VAT IDs'
